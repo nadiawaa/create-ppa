@@ -1,0 +1,9 @@
+Origin: My iPond Repository
+Label: My iPond
+Suite: stable
+Version: 1.0
+Codename: ipond
+Date: 2023-05-30
+Architectures: amd64 armhf
+Components: main contrib non-free
+Description: My iPond Repository - Packages for iPond Application
